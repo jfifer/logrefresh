@@ -1,0 +1,5 @@
+*.log
+*.rsa
+*.bak
+scptest.py
+*.swp
